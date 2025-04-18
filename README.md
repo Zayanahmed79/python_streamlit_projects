@@ -7,3 +7,5 @@
 [Project 3: Unit Convertor](https://convertor-zkz.streamlit.app/)
 
 [Project 4: Password Strength Meter](https://password-strength-zkz.streamlit.app/)
+
+[Project 5: Secure Data Encryption](https://secure-data-zkz.streamlit.app/)
